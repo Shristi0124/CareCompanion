@@ -1,0 +1,45 @@
+.mission-vision-values {
+    text-align: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .item {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+  }
+  
+  .icon {
+    font-size: 50px;
+    color: #ff4081;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .impact {
+    margin-top: 30px;
+    padding: 20px;
+    background: #ffefef;
+    border-radius: 10px;
+  }
+  
