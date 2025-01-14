@@ -19,6 +19,7 @@ import Detailsb from './Components/Detailsb';
 import About from './Pages/About';
 import TeamIntro from './Pages/TeamIntro';
 
+
 function App() {
   return (
     <Router>

@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 // import Header from '../Components/Header';  // Adjust the path if necessary
 import Footer from '../Components/Footer';  // Adjust the path if necessary
 import Testimonials from '../Components/Testimonials';
+
 const Home = () => {
   return (
     <div className="home">
@@ -18,6 +19,7 @@ const Home = () => {
           </Link>
         <p>Explore a wide range of services and get the best care tailored for you.</p>
       </main>
+
       <Testimonials />
       {/* Footer Component */}
       <Footer />
